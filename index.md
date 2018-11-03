@@ -22,7 +22,7 @@
 - [数组 API](https://www.jianshu.com/p/440c1ae2049d)
 - [浅拷贝和深拷贝（一）](https://www.jianshu.com/p/a68d491f8269)
 - [浅拷贝和深拷贝（二）](https://www.jianshu.com/p/a68d491f8269)
-- [npm 总结（一）](https://www.jianshu.com/p/921e0b89909b)
+- [npm 总结（一）](https://www.jianshu.com/p/921e0b89909b)（[demo 仓库](https://github.com/SingularityTeam/npm-demo)）
 
 #### 吕杰
 
