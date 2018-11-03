@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Welcome to SingularityTeam HomePage
 
-You can use the [editor on GitHub](https://github.com/SingularityTeam/learning-sharing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 资料分享
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [田园丰](#田园丰)
+- [王建武](#王建武)
+- [吕杰](#吕杰)
+- [郑国雷](#郑国雷)
+- [谭超](谭超)
+- [金铭](#金铭)
+- [丁梅](#丁梅)
+- [李雅君](#李雅君)
 
-### Markdown
+#### 田园丰
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [this 用法（一）](https://juejin.im/post/5b91eec26fb9a05d07191da6)
+- [this 用法(二)](https://juejin.im/post/5b91eec26fb9a05d07191da6)
+- Redux 基础
 
-```markdown
-Syntax highlighted code block
+#### 王建武
 
-# Header 1
-## Header 2
-### Header 3
+- [数组 API](https://www.jianshu.com/p/440c1ae2049d)
+- [浅拷贝和深拷贝（一）](https://www.jianshu.com/p/a68d491f8269)
+- [浅拷贝和深拷贝（二）](https://www.jianshu.com/p/a68d491f8269)
+- [npm 总结（一）](https://www.jianshu.com/p/921e0b89909b)
 
-- Bulleted
-- List
+#### 吕杰
 
-1. Numbered
-2. List
+- `JS` 原型继承
+- css 基础
+- JS 正则匹配
 
-**Bold** and _Italic_ and `Code` text
+#### 郑国雷
 
-[Link](url) and ![Image](src)
-```
+- [JS 数据类型（一）](https://github.com/MineHuicheng/MineHuicheng.github.io/issues/1)
+- [JS 数据类型（二）](https://www.jianshu.com/p/943a9761c107)
+- JS 数据类型（三）
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### 谭超
 
-### Jekyll Themes
+- JS Math, String 方法
+- sessionStorage, localStorage
+- http 缓存
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SingularityTeam/learning-sharing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### 金铭
 
-### Support or Contact
+- [http 基础知识](https://www.jianshu.com/p/a8eb6aef97cc)
+- [Http-CORS 跨域](https://www.jianshu.com/p/bb850d843e86)
+- [CSS 书写规范](https://www.jianshu.com/p/59db3f0acd86)
+- [HTTP 缓存](https://www.jianshu.com/p/65739164e22b)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 丁梅
+
+- [作用域及作用域链](https://blog.csdn.net/d1105260363/article/details/81979292)
+- [闭包](https://blog.csdn.net/d1105260363/article/details/82315554)
+- HTML 代码规范
+
+#### 李雅君
+
+- [ES6 的模块加载方案](https://www.jianshu.com/p/39c40db654ab)
+- [JavaScript 设计模式（一）](https://www.jianshu.com/p/b2a434fa84bb)
