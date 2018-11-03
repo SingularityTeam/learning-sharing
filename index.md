@@ -34,7 +34,7 @@
 
 - [JS 数据类型（一）](https://github.com/MineHuicheng/MineHuicheng.github.io/issues/1)
 - [JS 数据类型（二）](https://www.jianshu.com/p/943a9761c107)
-- JS 数据类型（三）
+- [JS 数据类型（三）](https://www.jianshu.com/p/634c06f49478)
 
 #### 谭超
 
