@@ -27,14 +27,16 @@
 #### 吕杰
 
 - `JS` 原型继承
-- css 基础
-- JS 正则匹配
+- [vertical-align](https://www.jianshu.com/p/823af4e6bc27)
+- [JS 正则匹配](https://www.jianshu.com/p/9cdf0a3b7901)
+- [some, every, filter, find,map, reduce 讲解及使用场景](https://www.jianshu.com/p/9377efd3caa0)
+- [BFC](https://www.jianshu.com/p/7c42da240136)
 
 #### 郑国雷
 
 - [JS 数据类型（一）](https://github.com/MineHuicheng/MineHuicheng.github.io/issues/1)
 - [JS 数据类型（二）](https://www.jianshu.com/p/943a9761c107)
-- JS 数据类型（三）
+- [JS 数据类型（三）](https://www.jianshu.com/p/634c06f49478)
 
 #### 谭超
 
