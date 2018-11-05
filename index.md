@@ -50,6 +50,7 @@
 - [Http-CORS 跨域](https://www.jianshu.com/p/bb850d843e86)
 - [CSS 书写规范](https://www.jianshu.com/p/59db3f0acd86)
 - [HTTP 缓存](https://www.jianshu.com/p/65739164e22b)
+- [排序算法（一）](https://www.jianshu.com/p/c364ef5e1d73)
 
 #### 丁梅
 
