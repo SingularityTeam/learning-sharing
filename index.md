@@ -40,9 +40,9 @@
 
 #### 谭超
 
-- JS Math, String 方法
-- sessionStorage, localStorage
-- http 缓存
+- [JS Math, String 方法](https://github.com/tancgo/kaze/issues/1)
+- [sessionStorage, localStorage](https://www.jianshu.com/p/11e024b652a3)
+- [http 缓存](https://zhuanlan.zhihu.com/p/44789005)
 
 #### 金铭
 
