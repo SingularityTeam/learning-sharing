@@ -56,7 +56,8 @@
 
 - [作用域及作用域链](https://blog.csdn.net/d1105260363/article/details/81979292)
 - [闭包](https://blog.csdn.net/d1105260363/article/details/82315554)
-- HTML 代码规范
+- [HTML 代码规范] (https://segmentfault.com/a/1190000016311730)
+- [垃圾回收机制] (https://segmentfault.com/a/1190000016934990)
 
 #### 李雅君
 
