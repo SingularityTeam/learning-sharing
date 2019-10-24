@@ -10,6 +10,9 @@
 - [金铭](#金铭)
 - [丁梅](#丁梅)
 - [李雅君](#李雅君)
+- [蒋长松](#蒋长松)
+- [李可心](#李可心)
+- [梁智强](#梁智强)
 
 #### 田园丰
 
@@ -43,6 +46,7 @@
 - [JS Math, String 方法](https://github.com/tancgo/kaze/issues/1)
 - [sessionStorage, localStorage](https://www.jianshu.com/p/11e024b652a3)
 - [http 缓存](https://zhuanlan.zhihu.com/p/44789005)
+- [数据结构-栈和队列](https://juejin.im/post/5db0432be51d4529ef3ee62d )
 
 #### 金铭
 
@@ -63,3 +67,10 @@
 
 - [ES6 的模块加载方案](https://www.jianshu.com/p/39c40db654ab)
 - [JavaScript 设计模式（一）](https://www.jianshu.com/p/b2a434fa84bb)
+
+#### 蒋长松
+
+#### 李可心
+
+#### 梁智强
+
