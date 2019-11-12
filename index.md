@@ -34,6 +34,8 @@
 - [JS 正则匹配](https://www.jianshu.com/p/9cdf0a3b7901)
 - [some, every, filter, find,map, reduce 讲解及使用场景](https://www.jianshu.com/p/9377efd3caa0)
 - [BFC](https://www.jianshu.com/p/7c42da240136)
+- [数据结构-树](https://www.jianshu.com/p/998cd20e18bd)
+
 
 #### 郑国雷
 
@@ -55,6 +57,8 @@
 - [CSS 书写规范](https://www.jianshu.com/p/59db3f0acd86)
 - [HTTP 缓存](https://www.jianshu.com/p/65739164e22b)
 - [排序算法（一）](https://www.jianshu.com/p/c364ef5e1d73)
+- [数据结构图](https://www.jianshu.com/p/2feb547f4f64)
+
 
 #### 丁梅
 
