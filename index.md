@@ -75,6 +75,9 @@
 #### 蒋长松
 
 #### 李可心
+- [前端学数据结构之字典和散列表](https://segmentfault.com/a/1190000020994078)
+- [前端数据结构之集合](https://segmentfault.com/a/1190000020993393)
 
 #### 梁智强
+-[十大经典排序算法（JS）版](https://www.jianshu.com/p/fa3d38ece5e6)
 
